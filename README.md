@@ -1,2 +1,5 @@
 # Unity.SongLab
-Repository for SongLab project code
+This repository contains all the project files for SongLab.
+
+## Background
+
